@@ -2,9 +2,9 @@ body {
 	font-family: Arial, sans-serif;
 	margin: auto;
 	width: 85%;
-	max-width: 1000px;
+	min-width:  300px;
 	text-align: justify;
-	color: #522F00;
+	color: brown;
 }
 
 p:first-letter {
@@ -19,7 +19,7 @@ header {
 }
 
 h1{
-	color: #B16400;
+	color:grey
 }
 
 img {
@@ -69,3 +69,4 @@ a {
     margin-right: auto;
   }
 }
+alt use
